@@ -1,0 +1,38 @@
+html>
+
+	<head>
+		<title>Tabela</title>
+	</head>
+	
+	<body>
+	
+<table border = "2" cellpadding = "10" width = "500">
+
+<tr>
+	<td rowspan = "2" colspan = "2" width = "50%"></td>
+	<td colspan = "3" align = "center">Pol</td>
+
+</tr>
+
+<tr>
+	<td align = "center">Muški</td>
+	<td align = "center">Ženski</td>
+</tr>
+
+<tr>
+	<td rowspan = "2" align = "center">Odjeljenje</td>
+	<td align = "center">I1</td>
+	<td>18</td>
+	<td>19</td>
+</tr>
+
+</tr>
+	<td align = "center">I2</td>
+	<td>20</td>
+	<td>17</td>
+</tr>
+
+</table>
+
+</body>
+</html>
